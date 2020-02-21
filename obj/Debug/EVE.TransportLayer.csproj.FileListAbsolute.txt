@@ -1,8 +1,0 @@
-E:\HAI\EVE\Backend\V2\Build\App.Config
-E:\HAI\EVE\Backend\V2\Build\EVE.TransportLayer.dll.config
-E:\HAI\EVE\Backend\V2\Build\EVE.TransportLayer.dll
-E:\HAI\EVE\Backend\V2\Build\EVE.TransportLayer.pdb
-E:\HAI\EVE\Backend\V2\Components\EVE.TransportLayer\obj\Debug\EVE.TransportLayer.csprojAssemblyReference.cache
-E:\HAI\EVE\Backend\V2\Components\EVE.TransportLayer\obj\Debug\EVE.TransportLayer.csproj.CopyComplete
-E:\HAI\EVE\Backend\V2\Components\EVE.TransportLayer\obj\Debug\EVE.TransportLayer.dll
-E:\HAI\EVE\Backend\V2\Components\EVE.TransportLayer\obj\Debug\EVE.TransportLayer.pdb
