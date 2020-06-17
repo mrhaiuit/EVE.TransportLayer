@@ -25,7 +25,7 @@ namespace EVE.TransportLayer
         //public async Task<ClientResponse<AGENT>> GetById(string siteId,
         //                                                 string agentId)
         //{
-        //    var response = await HttpUtils<ClientResponse<AGENT>>.Get($"{AppUtil.BaseCatalogUrl}/agent/getById", new
+           var response = await HttpUtils<ClientResponse<AGENT>>.Get($"{AppUtil.BaseCatalogUrl}/agent/getById", new
         //                                                                                                         {
         //                                                                                                                 SITE_ID = siteId,
         //                                                                                                                 AGENT = agentId
